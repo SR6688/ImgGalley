@@ -1,2 +1,4 @@
 # ImgGalley
-MdImage
+MarkText
+
+Image Galley
